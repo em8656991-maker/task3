@@ -1,0 +1,41 @@
+body {
+    background-color: #5cff85;
+    font-family: Arial, sans-serif;
+    color: #385305;
+}
+
+.main-title {
+    color: #faf9f9;
+    font-weight: bold;
+}
+
+.subtitle {
+    color: #b17b18;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.section-title {
+    color: #010308;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.btn {
+    border-radius: 8px;
+    padding: 12px;
+    font-weight: bold;
+}
+
+#studentsList,
+#reportBox {
+    line-height: 2;
+}
